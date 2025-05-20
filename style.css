@@ -16,7 +16,7 @@
     color: #555;
   }
   
-  /* Section Wrappers */
+
   section {
     padding: 60px 20px;
   }
@@ -57,7 +57,7 @@ p{
   line-height: 1.6;
 
 }
-  /* Difference Grid Layout */
+
   .difference-grid {
     display: flex;
     justify-content: space-between;
@@ -216,7 +216,7 @@ p{
   }
 
   .nutrition-text strong {
-    color: #f06d2f;  /* match CTA orange */
+    color: #f06d2f; 
     font-size: 1.8rem;
     margin-right:28px;
     
@@ -308,7 +308,7 @@ p{
     width: 100%;
     height: auto;
     display: block;
-    border-radius: 12px; /*
+    border-radius: 12px; 
     object-fit: cover;
   }
   
@@ -327,7 +327,7 @@ p{
       font-size: 2rem;
     }
   }
-  /* Responsive Adjustments */
+
   @media (max-width: 768px) {
     .difference-grid,
     .section-nutrition,
